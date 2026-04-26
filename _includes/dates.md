@@ -1,17 +1,14 @@
 # Important Dates
 
 Paper Abstracts
-: June 14, 2025
+: June 14, 2026
 
 Paper Submissions
-: June 30, 2025
+: June 30, 2026
 
 Author Notifications
-: July 31, 2025
-
-Posters
-: <del>August 31, 2025</del> September 2, 2025
+: July 31, 2026
 
 ## TopoInVis Workshop
 
-**November 2, 2025, morning**
+**November 9-13, 2026, IEEE VIS**

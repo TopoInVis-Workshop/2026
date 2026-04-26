@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# TopoInVis 2025 - Topological Data Analysis and Visualization
+# TopoInVis 2026 - Topological Data Analysis and Visualization
 
 
 Topological methods have become, over the last few years, one of the most exciting research fields in modern mathematics

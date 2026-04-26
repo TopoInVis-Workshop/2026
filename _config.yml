@@ -1,5 +1,5 @@
 
-title: TopoInVis 2025
+title: TopoInVis 2026
 email: topoinvis@ieeevis.org
 baseurl: ""
 url: "http://topoinvis.org"
@@ -7,7 +7,7 @@ url: "http://topoinvis.org"
 # --- site config ---
 
 description: > 
-  IEEE Workshop on Topological Data Analysis and Visualization, in conjunction with IEEE VIS 2025, Vienna, Austria
+  IEEE Workshop on Topological Data Analysis and Visualization, in conjunction with IEEE VIS 2026, Boston, USA
 
 navigation:
  - title: Home

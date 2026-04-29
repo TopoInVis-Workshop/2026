@@ -18,36 +18,36 @@ The paper track will feature peer-reviewed, archival contributions on theory, al
 # Scope
 Relevant topics include, but are not limited to:
 * Topological methods for the analysis and visualization of complex data, including:
- - scalar, vector, tensor, and multi-field data;
- - graph and network data;
- - time-varying and time-series data;
- - high-dimensional point cloud data;
- - ensemble data;
- - data with noise, uncertainty, or ambiguity.
+  - scalar, vector, tensor, and multi-field data;
+  - graph and network data;
+  - time-varying and time-series data;
+  - high-dimensional point cloud data;
+  - ensemble data;
+  - data with noise, uncertainty, or ambiguity.
 * Topological methods for artificial intelligence and machine learning, including:
- - topology-aware neural networks and learning architectures;
- - topological losses, regularization, and constraints;
- - persistent homology for representation learning;
- - topology-based analysis of embeddings and latent spaces;
- - topology for model robustness, generalization, and interpretability;
- - topological methods for generative models, diffusion models, and foundation models;
- - topological approaches to graph learning and geometric deep learning.
+  - topology-aware neural networks and learning architectures;
+  - topological losses, regularization, and constraints;
+  - persistent homology for representation learning;
+  - topology-based analysis of embeddings and latent spaces;
+  - topology for model robustness, generalization, and interpretability;
+  - topological methods for generative models, diffusion models, and foundation models;
+  - topological approaches to graph learning and geometric deep learning.
 * Visualization and visual analytics for AI using topological methods, including:
- - visual analysis of learned representations;
- - topology-based explainable AI;
- - interactive exploration of model behavior;
- - visual debugging and diagnosis of machine learning models;
- - human-centered analysis of topology-aware AI systems.
+  - visual analysis of learned representations;
+  - topology-based explainable AI;
+  - interactive exploration of model behavior;
+  - visual debugging and diagnosis of machine learning models;
+  - human-centered analysis of topology-aware AI systems.
 * Computational methods for topological data analysis and visualization, including:
- - scalable algorithms for large and dynamic data;
- - efficient computation of persistent homology and related summaries;
- - approximation, simplification, and uncertainty-aware computation;
- - software systems and libraries for topological analysis.
+  - scalable algorithms for large and dynamic data;
+  - efficient computation of persistent homology and related summaries;
+  - approximation, simplification, and uncertainty-aware computation;
+  - software systems and libraries for topological analysis.
 * Cross-community challenges and applications, including:
- - benchmark datasets for topology-aware AI and visualization;
- - reproducibility and evaluation of topological methods;
- - integration of topological algorithms into AI and VIS workflows;
- - applications in scientific visualization, biology, medicine, materials science, climate science, fluid dynamics, data science, and other domains.
+  - benchmark datasets for topology-aware AI and visualization;
+  - reproducibility and evaluation of topological methods;
+  - integration of topological algorithms into AI and VIS workflows;
+  - applications in scientific visualization, biology, medicine, materials science, climate science, fluid dynamics, data science, and other domains.
 
 # Submission 
 We welcome contributions as regular papers in the IEEE VGTC format (up to 9 pages of content, plus up to 2 pages of references). Full papers should present original research contributions. Paper submissions will be peer-reviewed by an international program committee. Accepted papers will be published in the IEEE Xplore Digital Library.

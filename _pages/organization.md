@@ -30,6 +30,9 @@ Tobias Günther
 
 Raghavendra Sridharamurthy
 : International Institute of Information Technology Hyderabad
+
+Wiebke Köpp
+: Lawrence Berkeley National Laboratory
 </div>
 
 <div class="right">

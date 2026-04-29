@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# TopoInVis 2026 - Topological Data Analysis and Visualization
+# TopoInVis Connect 2026 - Topological Data Analysis and Visualization
 
 
 Topological methods have become, over the last few years, one of the most exciting research fields in modern mathematics
@@ -19,7 +19,7 @@ as developing efficient and robust numerical methods.
 
 <img id="teasers" src="assets/teaser.png" />
 
-The IEEE VIS Workshop on Topological Data Analysis and Visualization aims at being 
+The IEEE VIS Workshop on Topological Data Analysis and Visualization (TopoinVis Connect) aims at being 
 an inclusive forum for the fast dissemination of the latest results in theory, 
 algorithms, and applications of topological methods for the interactive and visual 
 analysis of data. This workshop is a remodeling of the established TopoInVis workshop 
@@ -33,4 +33,4 @@ Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013
 Germany in 2015, Japan in 2017, Sweden in 2019, USA in 2022, Australia in 2023, USA in 2024 Austria in 2025. This is the fifth workshop 
 to be held in conjunction with IEEE VIS.
 
-To attend TopoInVis, please register through the [IEEE VIS website](https://ieeevis.org/year/2026/info/registration-and-travel/conference-registration).
+To attend TopoInVis Connect, please register through the [IEEE VIS website](https://ieeevis.org/year/2026/info/registration-and-travel/conference-registration).

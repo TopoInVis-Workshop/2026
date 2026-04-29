@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# TopoInVis Connect 2026 - Topological Data Analysis and Visualization
+# TopoInVis Connect 2026 - Topology meets Artificial Intelligence
 
 
 Topological methods have become, over the last few years, one of the most exciting research fields in modern mathematics
@@ -19,7 +19,7 @@ as developing efficient and robust numerical methods.
 
 <img id="teasers" src="assets/teaser.png" />
 
-The IEEE VIS Workshop on Topological Data Analysis and Visualization (TopoinVis Connect) aims at being 
+The IEEE VIS Workshop on Topology meets AI (TopoinVis Connect) aims at being 
 an inclusive forum for the fast dissemination of the latest results in theory, 
 algorithms, and applications of topological methods for the interactive and visual 
 analysis of data. This workshop is a remodeling of the established TopoInVis workshop 

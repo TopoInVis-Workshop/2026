@@ -60,4 +60,5 @@ The Best Paper for TopoInVis Connect 2026 will be invited to submit an extended 
 * June 30, 2026: submission deadline for full papers
 * July 31, 2026: author notification
 * November 9-13, 2026: IEEE VIS
+
 All deadlines are in Anywhere on Earth (AoE) time zone.

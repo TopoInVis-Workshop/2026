@@ -57,7 +57,7 @@ The Best Paper for TopoInVis Connect 2026 will be invited to submit an extended 
 
 # Important Dates
 * June 14, 2026: abstract deadline for full papers
-* June 30, 2026: submission deadline for full papers
+* June 21, 2026: submission deadline for full papers
 * July 31, 2026: author notification
 * November 9-13, 2026: IEEE VIS
 

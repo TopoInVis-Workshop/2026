@@ -4,7 +4,7 @@ Paper Abstracts
 : June 14, 2026
 
 Paper Submissions
-: June 30, 2026
+: June 21, 2026
 
 Author Notifications
 : July 31, 2026

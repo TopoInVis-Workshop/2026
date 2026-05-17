@@ -7,7 +7,7 @@ Paper Submissions
 : June 22, 2026
 
 Author Notifications
-: July 30, 2026
+: July 31, 2026
 
 ## TopoInVis Connect Workshop
 

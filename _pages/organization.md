@@ -44,6 +44,9 @@ Roxana Bujack (co-chair)
 Julien Tierny (co-chair)
 : Sorbonne Universite
   
+Divya Banesh
+: Los Alamos National Laboratory
+
 Guoning Chen
 : University of Houston
 
@@ -55,9 +58,6 @@ Tobias Günther
   
 Vijay	Natarajan
 : Indian Institute of Science, Bangalore
-
-Filip Sadlo
-: Heidelberg University
 
 Bei Wang
 : University of Utah

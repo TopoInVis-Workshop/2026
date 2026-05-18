@@ -30,7 +30,7 @@ from other communities willing to experiment with interactive and visual applica
 
 Previously twelve successful workshops have taken place in this workshop series: 
 Slovakia in 2005, Germany in 2007, USA in 2009, Switzerland in 2011, USA in 2013, 
-Germany in 2015, Japan in 2017, Sweden in 2019, USA in 2022, Australia in 2023, USA in 2024 Austria in 2025. This is the fifth workshop 
+Germany in 2015, Japan in 2017, Sweden in 2019, USA in 2022, Australia in 2023, USA in 2024, Austria in 2025. This is the fifth workshop 
 to be held in conjunction with IEEE VIS.
 
 To attend TopoInVis Connect, please register through the [IEEE VIS website](https://ieeevis.org/year/2026/info/registration-and-travel/conference-registration).

@@ -129,7 +129,7 @@ Julien Tierny
 : Sorbonne Universite
 
 Mikael Vejdemo-Johansson
-: CUNY College of Staten Island
+: CUNY Graduate Center
 
 Hubert Wagner
 : University of Florida

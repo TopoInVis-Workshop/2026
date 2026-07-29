@@ -32,7 +32,7 @@ The objective is not necessarily to solve the problem during the workshop. Rathe
 # Submission 
 * Submission deadline: August 30, 2026
 * Notification to problem proposers: September 15, 2026
-* Submission form: https://docs.google.com/forms/d/e/1FAIpQLSfRoB8fB_wmhnbeVVw9ACelaz3YmMjA8pnJKiWVWf2lT6KrZg/viewform?usp=publish-editor
+* Submission form: [Submit a problem statement](https://docs.google.com/forms/d/e/1FAIpQLSfRoB8fB_wmhnbeVVw9ACelaz3YmMjA8pnJKiWVWf2lT6KrZg/viewform?usp=publish-editor)
 
 We welcome proposals from contributors at all career stages and from a broad range of disciplinary and professional backgrounds.
 All deadlines are in Anywhere on Earth (AoE) time zone.

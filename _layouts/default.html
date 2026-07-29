@@ -38,7 +38,7 @@
           {% assign current = nil %} 
           {% if page.url contains link.url %} {% assign current = 'current'%} {% endif %}
           <li class="{{ current }}">
-            <a href="{{ link.url }}">{{ link.title }}</a>
+            <a href="{{ link.url }}">{% if link.badge %}<span class="nav-badge">{{ link.badge }}</span> {% endif %}{{ link.title }}</a>
           </li>
           {% endfor %}
           <li>

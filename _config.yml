@@ -20,7 +20,8 @@ navigation:
    url: submission.html
  - title: Accepted Papers
    url: accepted-papers.html
- - title: NEW Problem Statements
+ - title: Problem Statements
+   badge: NEW
    url: call-for-problem-statements.html
  - title: Awards
    url: awards.html

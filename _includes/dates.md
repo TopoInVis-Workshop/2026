@@ -9,6 +9,12 @@ Paper Submissions
 Author Notifications
 : July 31, 2026
 
+Submission problem statement
+: August 30, 2026
+
+Review and Notifications problem statement
+September 15, 2026
+
 ## TopoInVis Connect Workshop
 
 **November 9-13, 2026, IEEE VIS**

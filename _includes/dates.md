@@ -13,7 +13,7 @@ Submission problem statement
 : August 30, 2026
 
 Review and Notifications problem statement
-September 15, 2026
+: September 15, 2026
 
 ## TopoInVis Connect Workshop
 

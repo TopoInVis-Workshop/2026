@@ -13,6 +13,7 @@ navigation:
  - title: Home
    url: index.html
  - title: Program
+   badge: NEW
    url: program.html
  - title: Call for Papers
    url: call-for-papers.html
@@ -21,7 +22,6 @@ navigation:
  - title: Accepted Papers
    url: accepted-papers.html
  - title: Problem Statements
-   badge: NEW
    url: call-for-problem-statements.html
  - title: Awards
    url: awards.html

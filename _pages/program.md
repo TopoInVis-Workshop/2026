@@ -48,6 +48,13 @@ Venue: Hall America center @ [VIS](https://ieeevis.org/year/2026/welcome)
     <td>2:10pm &ndash; 2:30pm</td>
     <td>
       <h4>Panel 1: TopoInVis Connect &rarr; Applications</h4>
+      <ul>
+        <li><a href="https://gruchalla.github.io/">Kenny Gruchalla</a> &mdash; National Laboratory of the Rockies</li>
+        <li><a href="https://floridapoly.edu/faculty/bios/justin-hoffmeier/">Justin Hoffmeier</a> &mdash; Florida Polytechnic University</li>
+        <li><a href="https://vmlab-nthu.notion.site/Shih-Hsuan-Hung-143b8d611ddc808c9ec9c1b9988486fb">Shih-Hsuan (Kevin) Hung</a> &mdash; National Tsing Hua University</li>
+        <li><a href="https://fmiranda.me/">Fabio Miranda</a> &mdash; University of Illinois Chicago</li>
+        <li><a href="https://julien-tierny.github.io/">Julien Tierny</a> &mdash; CNRS, LIP6, Sorbonne Université</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -85,6 +92,11 @@ Venue: Hall America center @ [VIS](https://ieeevis.org/year/2026/welcome)
     <td>3:50pm &ndash; 4:10pm</td>
     <td>
       <h4>Panel 2: TopoInVis Connect &rarr; AI</h4>
+      <ul>
+        <li><a href="https://people.llnl.gov/bremer5">Timo Bremer</a> &mdash; Lawrence Livermore National Laboratory and University of Utah</li>
+        <li><a href="https://www.sci.utah.edu/~beiwang/">Bei Wang Phillips</a> &mdash; University of Utah and its SCI Institute</li>
+        <li><a href="https://sites.nd.edu/chaoli-wang/">Chaoli Wang</a> &mdash; University of Notre Dame</li>
+      </ul>
     </td>
   </tr>
   <tr>

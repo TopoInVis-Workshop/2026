@@ -94,7 +94,7 @@ Venue: Hall America center @ [VIS](https://ieeevis.org/year/2026/welcome)
       <h4>Panel 2: TopoInVis Connect &rarr; AI</h4>
       <ul>
         <li><a href="https://people.llnl.gov/bremer5">Timo Bremer</a> &mdash; Lawrence Livermore National Laboratory and University of Utah</li>
-        <li><a href="https://www.sci.utah.edu/~beiwang/">Bei Wang Phillips</a> &mdash; University of Utah and its SCI Institute</li>
+        <li><a href="https://www.sci.utah.edu/~beiwang/">Bei Wang Phillips</a> &mdash; University of Utah and SCI Institute</li>
         <li><a href="https://sites.nd.edu/chaoli-wang/">Chaoli Wang</a> &mdash; University of Notre Dame</li>
       </ul>
     </td>
